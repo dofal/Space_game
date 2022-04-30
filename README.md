@@ -1,7 +1,7 @@
 # Space_game
 
 Hello there! This is my first game build in python. I used pygame library for graphic render.
-It's really basic game, where 2 spaceships shoot on each other. The goal is to destroy enemy spaceship. This game is version for 2 players.
+It's really basic game, where 2 spaceships shooting each other. The goal is to destroy enemy spaceship. This game is version for 2 players.
 
 How to play:
 
